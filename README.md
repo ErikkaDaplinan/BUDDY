@@ -20,7 +20,7 @@ Buddy Mobile App.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/screenshots/">  
+<img src="assets/homescreen.png/screenshots/">  
 
 # Sign Up Screen
 <img src="assets/screenshots/">  
