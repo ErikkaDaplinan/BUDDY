@@ -23,10 +23,10 @@ Buddy Mobile App.
 <img src="assets/screenshots/homescreen.jpg">  
 
 # Sign Up Screen
-<img src="assets/screenshots/">  
+<img src="assets/screenshots/signupscreen.jpg">  
 
 # Sign In Screen
-<img src="assets/screenshots/">  
+<img src="assets/screenshots/signinscreen.jpg">  
 
 # Walkthrough
  
