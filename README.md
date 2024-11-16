@@ -19,7 +19,7 @@ Buddy Mobile App.
 * AppWrite
 * HTML, CSS and JS
 
-# Welcome Screen
+# Home Screen
 <img src="assets/screenshots/welcomescreen.jpg">  
 
 # Sign Up Screen
@@ -27,6 +27,9 @@ Buddy Mobile App.
 
 # Sign In Screen
 <img src="assets/screenshots/signinscreen.jpg">  
+
+# Tab Screen
+<img src="assets/screenshots/tabscreen.jpg">  
 
 # Walkthrough
  
