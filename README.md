@@ -19,9 +19,6 @@ Buddy Mobile App.
 * AppWrite
 * HTML, CSS and JS
 
-# Welcome Screen
-<img src="assets/screenshots/">  
-
 # Home Screen
 <img src="assets/screenshots/">  
 
