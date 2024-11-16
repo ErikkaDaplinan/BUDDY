@@ -12,7 +12,7 @@ const Dogs = () => {
           className="ml-32 mt-1 mb-8"
         />
       </View>
-      <Text className="text-xl font-light ml-2">Dogs available for adoption</Text>
+      <Text className="text-xl text-white ml-2">Dogs available for adoption</Text>
       <ScrollView contentContainerStyle={{ padding: 16 }}>
         <View className="bg-blue-950 p-4 mb-4 rounded-lg shadow-lg">
           <Image

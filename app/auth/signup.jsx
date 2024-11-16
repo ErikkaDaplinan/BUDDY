@@ -22,8 +22,6 @@ const SignUp = () => {
                 resizemode='contain'
                 className="w-[170px] h-[159px] "
               />
-              
-              <Text className="text-3xl text-white mt-5 mr-52 font-u_regular ">Sign Up</Text>
               <FormField
                   title="Username"
                   value={form.username}

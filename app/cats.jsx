@@ -14,7 +14,7 @@ const Cats = () => {
       </View>
        
       
-      <Text className="text-xl font-light ml-2">Cats available for adoption</Text>
+      <Text className="text-xl text-white ml-2">Cats available for adoption</Text>
       <ScrollView contentContainerStyle={{ padding: 16 }}>
 
         <View className="bg-blue-950 p-4 mb-4 rounded-lg shadow-lg">

@@ -22,7 +22,6 @@ const Login = () => {
                 resizemode='contain'
                 className="w-[170px] h-[159px] "
               />
-              <Text className="text-3xl text-white mt-10 font-regular mr-60">Sign In</Text>
               <FormField
                   title="Email"
                   value={form.email}
