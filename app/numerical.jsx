@@ -3,7 +3,6 @@ import React from 'react';
 
 const Numerical = () => {
   return (
-    //Analytics, Data gathered on the apps users
     <View className="flex-1 bg-orange-500">
       <ScrollView contentContainerStyle={{ padding: 16, marginTop: 10 }}>
         <Image 
