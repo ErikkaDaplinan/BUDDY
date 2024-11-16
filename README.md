@@ -33,3 +33,6 @@ Buddy Mobile App.
 
 # Walkthrough
  
+[Buddy App Walkthrough](https://youtu.be/3cp9ENcwr6g)
+
+Ready to dive into the code? This walkthrough will take you behind the scenes, showcasing key project files like (auth) and (tabs), and highlighting important components like CustomButton and FormField. Let's explore how these building blocks come together to create this app!
